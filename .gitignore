@@ -1,1 +1,4 @@
 venv/
+embeddings.joblib
+response.txt
+prompt.txt
