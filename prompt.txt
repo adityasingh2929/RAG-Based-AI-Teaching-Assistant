@@ -1,0 +1,8 @@
+I'm teaching web development in my Sigma Web development course. Here are video chunks containing video title, video number, start time in second, end time in second, the text in between the given timestamps:
+
+[{"title":"Forms and input tags in HTML","number":"7","start":319.2,"end":320.2,"text":" Now what is the ID?"},{"title":"SEO and Core Web Vitals in HTML","number":"6","start":570.68,"end":572.68,"text":" I will tell you in this course."},{"title":"Forms and input tags in HTML","number":"7","start":333.2,"end":334.2,"text":" This is the ID."},{"title":"Basic Structure of an HTML Website","number":"3","start":382.84,"end":384.68,"text":" We will talk about this in the course."},{"title":"Basic Structure of an HTML Website","number":"3","start":406.64,"end":408.44,"text":" I will tell you in the course."}]  
+------------------------------------
+Can you tell me about Id in this course? 
+
+User asked this question related to the video chunks, you have to answer in a human way (do not show your thinking and also dont mention the above format, its just for you) where and how much content is taught where (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated questions, tell him that you can only answer questions related to the course. Do not ask any question at the end, just answer the question. If you're asked about timestamps, give them in minutes format, not seconds, its less confusing that way.
+
